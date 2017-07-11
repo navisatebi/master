@@ -1,5 +1,5 @@
 {
-	"applicationName":"CentOS 7",
+	"applicationName":"CentOS 7 Master",
 	"contactEmail":"jadianes@gmail.com",
 	"about":"A simple CentOS 7 infrastructure. The AWS version is a work in progress.",
 	"version": "0.1",
